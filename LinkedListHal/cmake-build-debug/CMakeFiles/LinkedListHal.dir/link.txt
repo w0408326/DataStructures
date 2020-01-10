@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LinkedListHal.dir/main.cpp.o  -o LinkedListHal 

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/LinkedLists.dir/main.cpp.o  -o LinkedLists 

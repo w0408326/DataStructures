@@ -1,3 +1,0 @@
-/home/student2007/CLionProjects/LinkedLists/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/student2007/CLionProjects/LinkedLists/cmake-build-debug/CMakeFiles/LinkedLists.dir
-/home/student2007/CLionProjects/LinkedLists/cmake-build-debug/CMakeFiles/edit_cache.dir

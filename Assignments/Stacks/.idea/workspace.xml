@@ -12,185 +12,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e909608e-4ac6-45d2-a5ba-7f7b943fc7d5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Stacks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Stacks.dir/DependInfo.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Stacks.dir/build.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Stacks.dir/cmake_clean.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Stacks.dir/depend.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Stacks.dir/flags.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Stacks.dir/link.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Stacks.dir/progress.make" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/TargetDirectories.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/progress.marks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/Stacks.cbp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/cmake_install.cmake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cmake-build-debug/maze.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Snippets/Stacks.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Snippets/stack.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Snippets/stack.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Snippets/stacknode.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Snippets/stacknode.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Table of Contents.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit1/LinkedListHal/.idea/LinkedListHal.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit1/LinkedLists/.idea/LinkedLists.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/LinkedQueue/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/LinkedQueue/.idea/LinkedQueue.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/LinkedQueue/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/LinkedQueue/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/LinkedQueue/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/LinkedQueue/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/LinkedQueue/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/Stacks/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/Stacks/.idea/Stacks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/Stacks/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/Stacks/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/Stacks/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/Stacks/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/Stacks/main.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/Stacks/stack.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/Stacks/stack.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/Stacks/stacknode.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Unit2/Stacks/stacknode.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LinkedLists/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedLists/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/.idea/LinkedListHal.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/LinkedListHal.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/LinkedListHal.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/LinkedListHal.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/LinkedListHal.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/LinkedListHal.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/LinkedListHal.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/LinkedListHal.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/LinkedListHal.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/LinkedListHal.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/LinkedListHal.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/LinkedListHal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/LinkedListHal.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListHal/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/.idea/LinkedLists.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/LinkedLists.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/LinkedLists.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/LinkedLists.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/LinkedLists.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/LinkedLists.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/LinkedLists.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/LinkedLists.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/LinkedLists.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/LinkedLists.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/LinkedLists.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/LinkedLists" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/LinkedLists.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedLists/main.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/CMakeLists.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/3.15.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/3.15.3/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/3.15.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/3.15.3/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/3.15.3/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/LinkedListsDeletion.dir/CXX.includecache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/LinkedListsDeletion.dir/DependInfo.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/LinkedListsDeletion.dir/build.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/LinkedListsDeletion.dir/cmake_clean.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/LinkedListsDeletion.dir/depend.internal" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/LinkedListsDeletion.dir/depend.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/LinkedListsDeletion.dir/flags.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/LinkedListsDeletion.dir/link.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/LinkedListsDeletion.dir/main.cpp.o" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/LinkedListsDeletion.dir/progress.make" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/LinkedListsDeletion" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/LinkedListsDeletion.cbp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/Makefile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../LinkedListsDeletion/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -264,6 +87,9 @@
       <updated>1580304575430</updated>
       <workItem from="1580304577662" duration="7844000" />
       <workItem from="1580314592177" duration="4070000" />
+      <workItem from="1580476337617" duration="3240000" />
+      <workItem from="1580819226761" duration="4838000" />
+      <workItem from="1580826474912" duration="947000" />
     </task>
     <servers />
   </component>
@@ -283,56 +109,58 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="182" y="187" width="424" height="479" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1580308734839" />
-    <state width="1558" height="362" key="GridCell.Tab.0.bottom" timestamp="1580318779685">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="897" height="409" key="GridCell.Tab.0.bottom" timestamp="1580827114205">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1558" height="362" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1580318779685" />
-    <state width="1558" height="362" key="GridCell.Tab.0.center" timestamp="1580318779684">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="897" height="409" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580827114205" />
+    <state width="897" height="409" key="GridCell.Tab.0.center" timestamp="1580827114204">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1558" height="362" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1580318779684" />
-    <state width="1558" height="362" key="GridCell.Tab.0.left" timestamp="1580318779684">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="897" height="409" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580827114204" />
+    <state width="897" height="409" key="GridCell.Tab.0.left" timestamp="1580827114203">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1558" height="362" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1580318779684" />
-    <state width="1558" height="362" key="GridCell.Tab.0.right" timestamp="1580318779684">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="897" height="409" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580827114203" />
+    <state width="897" height="409" key="GridCell.Tab.0.right" timestamp="1580827114205">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1558" height="362" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1580318779684" />
-    <state width="1558" height="269" key="GridCell.Tab.1.bottom" timestamp="1580318155334">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="897" height="409" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580827114205" />
+    <state width="897" height="340" key="GridCell.Tab.1.bottom" timestamp="1580827099127">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1558" height="269" key="GridCell.Tab.1.bottom/0.0.1600.860@0.0.1600.860" timestamp="1580318155334" />
-    <state width="1558" height="269" key="GridCell.Tab.1.center" timestamp="1580318155333">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="897" height="340" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1580827099127" />
+    <state width="897" height="340" key="GridCell.Tab.1.center" timestamp="1580827099126">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1558" height="269" key="GridCell.Tab.1.center/0.0.1600.860@0.0.1600.860" timestamp="1580318155333" />
-    <state width="1558" height="269" key="GridCell.Tab.1.left" timestamp="1580318155333">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="897" height="340" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1580827099126" />
+    <state width="897" height="340" key="GridCell.Tab.1.left" timestamp="1580827099126">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1558" height="269" key="GridCell.Tab.1.left/0.0.1600.860@0.0.1600.860" timestamp="1580318155333" />
-    <state width="1558" height="269" key="GridCell.Tab.1.right" timestamp="1580318155334">
-      <screen x="0" y="0" width="1600" height="860" />
+    <state width="897" height="340" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1580827099126" />
+    <state width="897" height="340" key="GridCell.Tab.1.right" timestamp="1580827099127">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1558" height="269" key="GridCell.Tab.1.right/0.0.1600.860@0.0.1600.860" timestamp="1580318155334" />
-    <state x="483" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1580314602936">
+    <state width="897" height="340" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1580827099127" />
+    <state x="395" y="165" width="800" height="523" key="Vcs.Push.Dialog.v2" timestamp="1580318861934">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="483" y="256" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1580314602936" />
+    <state x="395" y="165" width="800" height="523" key="Vcs.Push.Dialog.v2/0.0.1600.860@0.0.1600.860" timestamp="1580318861934" />
+    <state x="580" y="310" key="com.intellij.ide.util.TipDialog" timestamp="1580826608197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="483" y="256" key="com.intellij.ide.util.TipDialog/0.0.1600.860@0.0.1600.860" timestamp="1580747698862" />
+    <state x="580" y="310" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1580826608197" />
     <state x="864" y="193" key="run.anything.popup" timestamp="1580309520642">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="864" y="193" key="run.anything.popup/0.0.1600.860@0.0.1600.860" timestamp="1580309520642" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
-          <url>file://$PROJECT_DIR$/main.cpp</url>
-          <line>45</line>
-          <option name="timeStamp" value="8" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

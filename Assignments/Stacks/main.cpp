@@ -1,6 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <cstring>
+#include <stack>
 
 using namespace std;
 
@@ -12,22 +13,31 @@ int main() {
     int col = 0;
 
     string line;
-    ifstream mymaze("maze.txt");
+    ifstream mazeRowColCount("maze.txt");
 
-    char linearray[55];
-    char array[25][55];
+    if(mazeRowColCount){
+        while(getline(mazeRowColCount, line)){
+            row++;
+        }
 
-    
+        mazeRowColCount.close();
+    }
 
-    if(mymaze)
+    col = line.length();
+
+    char linearray[col];
+    char array[row][col];
+
+    ifstream mazeInput("maze.txt");
+
+    if(mazeInput)
     {
-        while (getline(mymaze,line))
+        while (getline(mazeInput, line))
         {
-            //cout << line << endl;
-            fill_n(linearray, 55, 0);
+            fill_n(linearray, col, 0);
             strcpy(linearray, line.c_str());
 
-            for (int i = 0; i < 55; ++i) {
+            for (int i = 0; i < col; ++i) {
                 if(linearray[i] == '\000'){
                     array[count][i] = ' ';
                 }else{
@@ -36,52 +46,75 @@ int main() {
             }
             count++;
         }
-        mymaze.close();
+        mazeInput.close();
     }
 
-//    char c;
-//
-//
-//    ifstream maze ("maze.txt");
-//
-//    while(maze.get(c)){
-//        if(c != '\n'){
-//            col++;
-//        }
-//        else {
-//            col = 0;
-//            row++;
-//        }
-//    }
-//
-//    maze.close();
-//
-// //   col = col/row;
-//    string cols = "+-+-+-+-+-+ +-+ + +-+-+ + +-+ + +-+ + + +-+-+ + +++";
-//
-//    cout << row << endl;
-//    cout << col << endl;
-//    cout << cols.size() << endl;
-//
-//    char mazeArray[row][col];
-//
-//    maze.open("maze.txt");
-//    for (int i = 0; i < row; ++i) {
-//        for (int j = 0; j < col; ++j) {
-//         //   maze >> noskipws >> mazeArray[i][j];
-//            maze.get(c);
-//            mazeArray[i][j] = c;
-//        };
-//    }
-//    maze.close();
-//
-    for (int i = 0; i < 25; ++i) {
-        for (int j = 0; j < 55; ++j) {
+    for (int i = 0; i < row; ++i) {
+        for (int j = 0; j < col; ++j) {
             cout << array[i][j];
         }
         cout << endl;
     }
 
+    int currentRow = 1;
+    int currentCol = 0;
 
+    stack<int> x;
+    stack<int> y;
+
+    x.push(1);
+    y.push(0);
+
+    while(array[row-2][col-1] != '#'){
+        array[x.top()][y.top()] = '#';
+
+        if(array[x.top()][y.top()+1] == ' '){
+            array[x.top()][y.top()+1] = '#';
+            x.push(x.top());
+            y.push(y.top()+1);
+        }else if(array[x.top()+1][y.top()] == ' '){
+            array[x.top()+1][y.top()] = '#';
+            x.push(x.top()+1);
+            y.push(y.top());
+        }else if(array[x.top()][y.top()-1] == ' '){
+            array[x.top()][y.top()-1] = '#';
+            x.push(x.top());
+            y.push(y.top()-1);
+        }else if(array[x.top()-1][y.top()] == ' '){
+            array[x.top()-1][y.top()] = '#';
+            x.push(x.top()-1);
+            y.push(y.top());
+        }else{
+            array[x.top()][y.top()] = '*';
+            x.pop();
+            y.pop();
+        }
+
+//        array[currentRow][currentCol] = '#';
+//
+//        if(array[currentRow][currentCol+1] == ' '){
+//            array[currentRow][currentCol+1] = '#';
+//            currentCol++;
+//        }else if(array[currentRow+1][currentCol] == ' '){
+//            array[currentRow+1][currentCol] = '#';
+//            currentRow++;
+//        }else if(array[currentRow][currentCol-1] == ' '){
+//            array[currentRow][currentCol-1] = '#';
+//            currentCol--;
+//        }else if(array[currentRow-1][currentCol] == ' '){
+//            array[currentRow-1][currentCol] = '#';
+//            currentRow--;
+//        }
+    }
+
+
+    cout << endl << "Solved:" << endl;
+
+    for (int i = 0; i < row; ++i) {
+        for (int j = 0; j < col; ++j) {
+            cout << array[i][j];
+        }
+        cout << endl;
+    }
     return 0;
 }

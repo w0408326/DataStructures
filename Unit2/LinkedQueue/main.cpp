@@ -24,7 +24,7 @@ public:
     virtual ~QueueNode() {}
 
     int getData() { return _data; }
-    void setData( int data ) { _data = data; }
+    void setData(int data, int i) { _data = data + i; }
 
     QueueNode* getNext() { return _next; }
     void setNext( QueueNode* next ) { _next = next; }
@@ -46,10 +46,10 @@ public:
         }
     }
 
-    void Add( int num )
+    void Add(int num, int i)
     {
         QueueNode* node = new QueueNode();
-        node->setData(num);
+        node->setData(num, i);
 
         if( _first == NULL )
         {
@@ -97,14 +97,14 @@ int main()
     // test 1: push nodes on to queue
     Queue queue;
 
-    queue.Add( 1 );
-    queue.Add( 2 );
-    queue.Add( 3 );
-    queue.Add( 4 );
-    queue.Add( 5 );
-    queue.Add( 6 );
-    queue.Add( 7 );
-    queue.Add( 8 );
+    queue.Add(1, 110);
+    queue.Add(2, 0);
+    queue.Add(3, 0);
+    queue.Add(4, 0);
+    queue.Add(5, 0);
+    queue.Add(6, 0);
+    queue.Add(7, 0);
+    queue.Add(8, 0);
 
     cout << "Queued values:" << endl;
     cout << queue;

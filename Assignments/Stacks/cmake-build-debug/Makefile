@@ -123,6 +123,33 @@ Stacks/fast:
 	$(MAKE) -f CMakeFiles/Stacks.dir/build.make CMakeFiles/Stacks.dir/build
 .PHONY : Stacks/fast
 
+displayMaze.o: displayMaze.cpp.o
+
+.PHONY : displayMaze.o
+
+# target to build an object file
+displayMaze.cpp.o:
+	$(MAKE) -f CMakeFiles/Stacks.dir/build.make CMakeFiles/Stacks.dir/displayMaze.cpp.o
+.PHONY : displayMaze.cpp.o
+
+displayMaze.i: displayMaze.cpp.i
+
+.PHONY : displayMaze.i
+
+# target to preprocess a source file
+displayMaze.cpp.i:
+	$(MAKE) -f CMakeFiles/Stacks.dir/build.make CMakeFiles/Stacks.dir/displayMaze.cpp.i
+.PHONY : displayMaze.cpp.i
+
+displayMaze.s: displayMaze.cpp.s
+
+.PHONY : displayMaze.s
+
+# target to generate assembly for a file
+displayMaze.cpp.s:
+	$(MAKE) -f CMakeFiles/Stacks.dir/build.make CMakeFiles/Stacks.dir/displayMaze.cpp.s
+.PHONY : displayMaze.cpp.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -159,6 +186,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... Stacks"
 	@echo "... edit_cache"
+	@echo "... displayMaze.o"
+	@echo "... displayMaze.i"
+	@echo "... displayMaze.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

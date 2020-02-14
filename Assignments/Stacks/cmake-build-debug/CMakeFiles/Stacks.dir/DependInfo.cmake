@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/home/student2007/CLionProjects/Assignments/Stacks/displayMaze.cpp" "/home/student2007/CLionProjects/Assignments/Stacks/cmake-build-debug/CMakeFiles/Stacks.dir/displayMaze.cpp.o"
   "/home/student2007/CLionProjects/Assignments/Stacks/main.cpp" "/home/student2007/CLionProjects/Assignments/Stacks/cmake-build-debug/CMakeFiles/Stacks.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")

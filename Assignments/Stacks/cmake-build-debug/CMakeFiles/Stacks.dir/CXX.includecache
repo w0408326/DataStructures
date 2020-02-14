@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/student2007/CLionProjects/Assignments/Stacks/displayMaze.cpp
+displayMaze.h
+/home/student2007/CLionProjects/Assignments/Stacks/displayMaze.h
+iostream
+-
+fstream
+-
+cstring
+-
+string
+-
+stack
+-
+
+/home/student2007/CLionProjects/Assignments/Stacks/displayMaze.h
+string
+-
+

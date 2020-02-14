@@ -1,4 +1,5 @@
 file(REMOVE_RECURSE
+  "CMakeFiles/Stacks.dir/displayMaze.cpp.o"
   "CMakeFiles/Stacks.dir/main.cpp.o"
   "Stacks"
   "Stacks.pdb"

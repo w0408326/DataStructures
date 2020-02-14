@@ -3,4 +3,4 @@ project(Stacks)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Stacks main.cpp)
+add_executable(Stacks main.cpp displayMaze.h displayMaze.cpp)

@@ -1,1 +1,1 @@
-/usr/bin/c++  -g   CMakeFiles/Stacks.dir/main.cpp.o  -o Stacks 
+/usr/bin/c++  -g   CMakeFiles/Stacks.dir/main.cpp.o CMakeFiles/Stacks.dir/displayMaze.cpp.o  -o Stacks 
